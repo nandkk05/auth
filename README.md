@@ -1,4 +1,4 @@
-### React Firebase Auth Boilerplate 🌀
+# React Firebase Auth Boilerplate 🌀
 
 ## Environment Variables
 
